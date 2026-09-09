@@ -1,0 +1,10 @@
+{
+glyphname = lcaron;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 318;
+}

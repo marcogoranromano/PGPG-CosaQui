@@ -1,0 +1,10 @@
+{
+glyphname = edieresis;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 235;
+}

@@ -1,0 +1,60 @@
+{
+.appVersion = "3343";
+.formatVersion = 3;
+date = "2026-09-09 07:37:57 +0000";
+familyName = "Cosachì";
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 672;
+},
+{
+over = 16;
+pos = 640;
+},
+{
+over = 16;
+pos = 480;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -256;
+}
+);
+name = Stencil;
+userData = {
+GSCornerRadius = 15;
+};
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+settings = {
+gridLength = 32;
+gridSubDivision = 32;
+};
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

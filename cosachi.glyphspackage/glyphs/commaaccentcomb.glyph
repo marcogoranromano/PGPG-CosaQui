@@ -1,0 +1,10 @@
+{
+glyphname = commaaccentcomb;
+layers = (
+{
+layerId = m01;
+width = 300;
+}
+);
+unicode = 806;
+}

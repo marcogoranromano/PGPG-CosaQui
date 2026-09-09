@@ -1,0 +1,10 @@
+{
+glyphname = macroncomb;
+layers = (
+{
+layerId = m01;
+width = 300;
+}
+);
+unicode = 772;
+}
