@@ -3,6 +3,12 @@ color = 5;
 glyphname = u;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (292,480);
+}
+);
 background = {
 shapes = (
 {

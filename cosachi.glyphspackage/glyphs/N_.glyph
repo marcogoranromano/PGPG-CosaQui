@@ -1,10 +1,42 @@
 {
+color = 5;
 glyphname = N;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(600,0,l),
+(196,640,l),
+(120,640,l),
+(524,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(184,478,l),
+(120,580,l),
+(120,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(600,640,l),
+(536,640,l),
+(536,162,l),
+(600,60,l)
+);
 }
 );
+width = 720;
+}
+);
+metricLeft = H;
+metricRight = H;
 unicode = 78;
 }

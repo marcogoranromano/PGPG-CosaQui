@@ -2,8 +2,21 @@
 glyphname = acutecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (76,480);
+}
+);
 layerId = m01;
-width = 300;
+shapes = (
+{
+pos = (229,0);
+ref = gravecomb;
+scale = (-1,1);
+}
+);
+width = 229;
 }
 );
 unicode = 769;

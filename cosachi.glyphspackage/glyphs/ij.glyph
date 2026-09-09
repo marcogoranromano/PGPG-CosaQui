@@ -1,9 +1,26 @@
 {
+color = 4;
 glyphname = ij;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = n;
+}
+);
+};
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (264,0);
+ref = j;
+}
+);
+width = 528;
 }
 );
 unicode = 307;

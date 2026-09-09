@@ -2,8 +2,25 @@
 glyphname = gravecomb;
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (153,480);
+}
+);
 layerId = m01;
-width = 300;
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,704,l),
+(179,560,l),
+(127,560,l),
+(50,704,l)
+);
+}
+);
+width = 229;
 }
 );
 unicode = 768;

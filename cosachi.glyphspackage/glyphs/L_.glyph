@@ -1,10 +1,32 @@
 {
+color = 5;
 glyphname = L;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(184,640,l),
+(120,640,l),
+(120,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(472,0,l),
+(472,64,l),
+(216,64,l),
+(216,0,l)
+);
 }
 );
+width = 502;
+}
+);
+metricLeft = H;
 unicode = 76;
 }

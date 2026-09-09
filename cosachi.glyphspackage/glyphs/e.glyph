@@ -3,6 +3,12 @@ color = 5;
 glyphname = e;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (326,480);
+}
+);
 guides = (
 {
 pos = (480,304);

@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = odieresis;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (196,0);
+ref = dieresiscomb;
+}
+);
+width = 652;
 }
 );
 unicode = 246;
