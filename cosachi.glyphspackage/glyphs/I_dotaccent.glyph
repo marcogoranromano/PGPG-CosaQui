@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Idotaccent;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (70,160);
+ref = dotaccentcomb;
+}
+);
+width = 304;
 }
 );
 unicode = 304;

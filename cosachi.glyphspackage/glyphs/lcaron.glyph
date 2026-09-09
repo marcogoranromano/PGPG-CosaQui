@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = lcaron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (101,-32);
+ref = caroncomb.alt;
+}
+);
+width = 264;
 }
 );
 unicode = 318;

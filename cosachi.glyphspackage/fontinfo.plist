@@ -111,6 +111,18 @@ name = "Master Icon Glyph Name";
 value = A;
 }
 );
+guides = (
+{
+angle = 180;
+name = Diacritici;
+pos = (0,560);
+},
+{
+angle = 180;
+name = Diacritici;
+pos = (0,704);
+}
+);
 id = m01;
 metricValues = (
 {

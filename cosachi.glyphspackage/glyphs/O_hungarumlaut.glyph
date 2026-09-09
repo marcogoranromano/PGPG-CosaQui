@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Ohungarumlaut;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (276,160);
+ref = hungarumlautcomb;
+}
+);
+width = 812;
 }
 );
 unicode = 336;

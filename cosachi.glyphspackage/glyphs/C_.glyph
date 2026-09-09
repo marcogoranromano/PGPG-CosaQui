@@ -3,6 +3,16 @@ color = 5;
 glyphname = C;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (406,-16);
+},
+{
+name = top;
+pos = (406,640);
+}
+);
 guides = (
 {
 angle = 90;

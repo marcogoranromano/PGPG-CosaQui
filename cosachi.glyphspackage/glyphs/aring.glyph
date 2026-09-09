@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = aring;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (116,0);
+ref = ringcomb;
+}
+);
+width = 522;
 }
 );
 unicode = 229;

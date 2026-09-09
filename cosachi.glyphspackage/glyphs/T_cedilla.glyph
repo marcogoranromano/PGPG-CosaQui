@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Tcedilla;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (114,0);
+ref = cedillacomb;
+}
+);
+width = 520;
 }
 );
 unicode = 354;

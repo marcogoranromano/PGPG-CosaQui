@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Zdotaccent;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (202,160);
+ref = dotaccentcomb;
+}
+);
+width = 568;
 }
 );
 unicode = 379;

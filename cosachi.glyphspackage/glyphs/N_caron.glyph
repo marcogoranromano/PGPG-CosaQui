@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Ncaron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (177,160);
+ref = caroncomb;
+}
+);
+width = 720;
 }
 );
 unicode = 327;

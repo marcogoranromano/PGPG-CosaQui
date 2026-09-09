@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Udieresis;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (230,160);
+ref = dieresiscomb;
+}
+);
+width = 720;
 }
 );
 unicode = 220;

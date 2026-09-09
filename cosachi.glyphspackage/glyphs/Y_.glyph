@@ -3,6 +3,12 @@ color = 5;
 glyphname = Y;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (288,640);
+}
+);
 layerId = m01;
 shapes = (
 {

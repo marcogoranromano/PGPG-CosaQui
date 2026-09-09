@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Edotaccent;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (230,160);
+ref = dotaccentcomb;
+}
+);
+width = 574;
 }
 );
 unicode = 278;

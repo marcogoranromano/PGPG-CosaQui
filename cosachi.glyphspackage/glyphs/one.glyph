@@ -3,8 +3,29 @@ glyphname = one;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(184,544,l),
+(120,544,l),
+(120,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,576,l),
+(184,640,l),
+(24,640,l),
+(24,576,l)
+);
 }
 );
+width = 304;
+}
+);
+metricRight = H;
 unicode = 49;
 }

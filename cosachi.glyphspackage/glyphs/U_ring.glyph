@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Uring;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (214,160);
+ref = ringcomb;
+}
+);
+width = 720;
 }
 );
 unicode = 366;

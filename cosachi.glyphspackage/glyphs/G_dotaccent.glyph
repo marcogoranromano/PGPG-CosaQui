@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Gdotaccent;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (324,160);
+ref = dotaccentcomb;
+}
+);
+width = 662;
 }
 );
 unicode = 288;

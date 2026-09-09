@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Nacute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (284,160);
+ref = acutecomb;
+}
+);
+width = 720;
 }
 );
 unicode = 323;

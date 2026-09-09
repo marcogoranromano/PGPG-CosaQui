@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = omacron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (170,0);
+ref = macroncomb;
+}
+);
+width = 652;
 }
 );
 unicode = 333;

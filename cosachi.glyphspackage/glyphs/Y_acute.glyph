@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Yacute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (212,160);
+ref = acutecomb;
+}
+);
+width = 575;
 }
 );
 unicode = 221;

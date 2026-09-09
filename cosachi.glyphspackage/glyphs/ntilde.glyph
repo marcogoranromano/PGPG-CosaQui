@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = ntilde;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (108,0);
+ref = tildecomb;
+}
+);
+width = 552;
 }
 );
 unicode = 241;

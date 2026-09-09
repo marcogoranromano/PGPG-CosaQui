@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Wdieresis;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (301,160);
+ref = dieresiscomb;
+}
+);
+width = 862;
 }
 );
 unicode = 7812;

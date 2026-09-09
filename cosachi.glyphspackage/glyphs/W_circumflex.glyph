@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Wcircumflex;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (248,160);
+ref = circumflexcomb;
+}
+);
+width = 862;
 }
 );
 unicode = 372;

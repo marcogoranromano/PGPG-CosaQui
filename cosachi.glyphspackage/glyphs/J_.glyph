@@ -1,7 +1,14 @@
 {
+color = 5;
 glyphname = J;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (300,640);
+}
+);
 layerId = m01;
 shapes = (
 {

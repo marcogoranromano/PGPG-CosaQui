@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Scaron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (101,160);
+ref = caroncomb;
+}
+);
+width = 568;
 }
 );
 unicode = 352;

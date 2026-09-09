@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Sacute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (208,160);
+ref = acutecomb;
+}
+);
+width = 568;
 }
 );
 unicode = 346;

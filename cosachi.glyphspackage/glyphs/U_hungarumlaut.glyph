@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Uhungarumlaut;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (230,160);
+ref = hungarumlautcomb;
+}
+);
+width = 720;
 }
 );
 unicode = 368;

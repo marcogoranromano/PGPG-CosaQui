@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = gbreve;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (151,0);
+ref = brevecomb;
+}
+);
+width = 655;
 }
 );
 unicode = 287;

@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Gmacron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (250,160);
+ref = macroncomb;
+}
+);
+width = 662;
 }
 );
 unicode = 7712;

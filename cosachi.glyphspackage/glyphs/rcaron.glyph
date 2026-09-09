@@ -1,9 +1,18 @@
 {
+color = 4;
 glyphname = rcaron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = r;
+},
+{
+ref = caroncomb;
+}
+);
+width = 326;
 }
 );
 unicode = 345;

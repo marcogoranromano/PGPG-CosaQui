@@ -1,9 +1,19 @@
 {
+color = 5;
 glyphname = colon;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (0,320);
+ref = period;
+}
+);
+width = 164;
 }
 );
 unicode = 58;

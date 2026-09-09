@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Amacron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (151,160);
+ref = macroncomb;
+}
+);
+width = 614;
 }
 );
 unicode = 256;

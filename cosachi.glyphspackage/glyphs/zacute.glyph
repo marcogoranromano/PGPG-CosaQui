@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = zacute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (180,0);
+ref = acutecomb;
+}
+);
+width = 512;
 }
 );
 unicode = 378;

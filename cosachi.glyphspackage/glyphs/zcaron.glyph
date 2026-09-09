@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = zcaron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (73,0);
+ref = caroncomb;
+}
+);
+width = 512;
 }
 );
 unicode = 382;

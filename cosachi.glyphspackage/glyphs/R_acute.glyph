@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Racute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (268,160);
+ref = acutecomb;
+}
+);
+width = 628;
 }
 );
 unicode = 340;

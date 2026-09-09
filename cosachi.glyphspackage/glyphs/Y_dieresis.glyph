@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Ydieresis;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (158,160);
+ref = dieresiscomb;
+}
+);
+width = 575;
 }
 );
 unicode = 376;

@@ -1,9 +1,18 @@
 {
+color = 4;
 glyphname = gcommaaccent;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = g;
+},
+{
+ref = commaturnedabovecomb;
+}
+);
+width = 655;
 }
 );
 unicode = 291;

@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Ntilde;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (192,160);
+ref = tildecomb;
+}
+);
+width = 720;
 }
 );
 unicode = 209;

@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Jacute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (224,160);
+ref = acutecomb;
+}
+);
+width = 604;
 }
 );
 }

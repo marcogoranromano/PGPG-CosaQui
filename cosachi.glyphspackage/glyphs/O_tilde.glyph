@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Otilde;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (238,160);
+ref = tildecomb;
+}
+);
+width = 812;
 }
 );
 unicode = 213;

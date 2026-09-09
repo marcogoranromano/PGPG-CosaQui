@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = ucircumflex;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (109,0);
+ref = circumflexcomb;
+}
+);
+width = 584;
 }
 );
 unicode = 251;

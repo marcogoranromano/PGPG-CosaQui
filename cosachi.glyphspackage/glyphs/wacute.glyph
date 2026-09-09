@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = wacute;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (376,0);
+ref = acutecomb;
+}
+);
+width = 889;
 }
 );
 unicode = 7811;

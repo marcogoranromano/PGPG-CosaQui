@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = utilde;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (124,0);
+ref = tildecomb;
+}
+);
+width = 584;
 }
 );
 unicode = 361;

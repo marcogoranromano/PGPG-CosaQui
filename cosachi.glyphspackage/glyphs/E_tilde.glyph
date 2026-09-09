@@ -1,9 +1,19 @@
 {
+color = 4;
 glyphname = Etilde;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (144,160);
+ref = tildecomb;
+}
+);
+width = 574;
 }
 );
 unicode = 7868;
