@@ -3,8 +3,30 @@ glyphname = y;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(471,480,l),
+(403,480,l),
+(144,-256,l),
+(212,-256,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(243,124,l),
+(118,480,l),
+(50,480,l),
+(210,28,l)
+);
 }
 );
+width = 521;
+}
+);
+metricLeft = v;
+metricRight = v;
 unicode = 121;
 }

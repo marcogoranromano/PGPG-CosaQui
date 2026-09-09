@@ -1,0 +1,10 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 58;
+}

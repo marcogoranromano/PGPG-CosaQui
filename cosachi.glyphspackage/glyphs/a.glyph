@@ -1,7 +1,14 @@
 {
+color = 5;
 glyphname = a;
 layers = (
 {
+anchors = (
+{
+name = top;
+pos = (262,480);
+}
+);
 background = {
 shapes = (
 {

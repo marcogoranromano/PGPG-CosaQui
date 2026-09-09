@@ -1,9 +1,17 @@
 {
+color = 5;
 glyphname = p;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (648,0);
+ref = q;
+scale = (-1,1);
+}
+);
+width = 648;
 }
 );
 unicode = 112;

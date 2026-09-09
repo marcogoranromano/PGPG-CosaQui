@@ -1,10 +1,36 @@
 {
+color = 5;
 glyphname = r;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,480,l),
+(100,480,l),
+(100,0,l),
+(164,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(226,412,o),
+(264,429,o),
+(306,432,c),
+(306,496,l),
+(266,493,o),
+(229,482,o),
+(196,463,c),
+(196,386,l)
+);
 }
 );
+width = 326;
+}
+);
+metricLeft = n;
 unicode = 114;
 }
