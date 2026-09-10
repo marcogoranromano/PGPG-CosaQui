@@ -8,7 +8,7 @@ tag = wght;
 }
 );
 date = "2026-09-09 07:37:57 +0000";
-familyName = "Cosachì";
+familyName = CosaChi;
 featurePrefixes = (
 {
 automatic = 1;
@@ -219,13 +219,23 @@ GSOffsetVertical = -54;
 instances = (
 {
 axesValues = (
-0
+64
 );
 instanceInterpolations = {
-m002 = -1.33333;
-m01 = 2.33333;
+m01 = 1;
 };
 name = Regular;
+},
+{
+axesValues = (
+112
+);
+instanceInterpolations = {
+m002 = 1;
+};
+isBold = 1;
+name = Bold;
+weightClass = 700;
 }
 );
 kerningLTR = {
@@ -250,6 +260,21 @@ type = baseline;
 },
 {
 type = descender;
+}
+);
+properties = (
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Marco Goran Romano";
+}
+);
+},
+{
+key = designerURL;
+value = www.marcogoranromano.com;
 }
 );
 settings = {
