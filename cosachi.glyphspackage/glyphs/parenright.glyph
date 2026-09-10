@@ -1,9 +1,28 @@
 {
+color = 5;
 glyphname = parenright;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (249,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 249;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (249,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 249;
 }
 );
 unicode = 41;

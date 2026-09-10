@@ -14,6 +14,19 @@ ref = dotaccentcomb;
 }
 );
 width = 512;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = z;
+},
+{
+pos = (174,0);
+ref = dotaccentcomb;
+}
+);
+width = 512;
 }
 );
 unicode = 380;

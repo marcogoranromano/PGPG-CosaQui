@@ -1,9 +1,26 @@
 {
+color = 5;
 glyphname = underscore;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (0,-396);
+ref = endash;
+}
+);
+width = 548;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,-396);
+ref = endash;
+}
+);
+width = 548;
 }
 );
 unicode = 95;

@@ -1,9 +1,32 @@
 {
+color = 4;
 glyphname = tcaron;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (139,-48);
+ref = caroncomb.alt;
+}
+);
+width = 340;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (139,-48);
+ref = caroncomb.alt;
+}
+);
+width = 340;
 }
 );
 unicode = 357;

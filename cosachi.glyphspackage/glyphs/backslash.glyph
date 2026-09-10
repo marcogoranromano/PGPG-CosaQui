@@ -1,9 +1,28 @@
 {
+color = 5;
 glyphname = backslash;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (294,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 294;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (294,0);
+ref = slash;
+scale = (-1,1);
+}
+);
+width = 294;
 }
 );
 unicode = 92;

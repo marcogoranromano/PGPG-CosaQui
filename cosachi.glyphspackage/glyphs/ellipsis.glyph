@@ -24,6 +24,29 @@ ref = period;
 }
 );
 width = 356;
+},
+{
+guides = (
+{
+pos = (29,32);
+showMeasurement = 1;
+}
+);
+layerId = m002;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (96,0);
+ref = period;
+},
+{
+pos = (192,0);
+ref = period;
+}
+);
+width = 356;
 }
 );
 unicode = 8230;

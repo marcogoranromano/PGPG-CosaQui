@@ -5,11 +5,75 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+pos = (312,0);
+},
+{
+name = ogonek;
+pos = (469,0);
+},
+{
 name = top;
 pos = (312,640);
 }
 );
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(184,640,l),
+(120,640,l),
+(120,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(504,0,l),
+(504,64,l),
+(216,64,l),
+(216,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(472,288,l),
+(472,352,l),
+(216,352,l),
+(216,288,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(504,576,l),
+(504,640,l),
+(216,640,l),
+(216,576,l)
+);
+}
+);
+width = 574;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (312,0);
+},
+{
+name = ogonek;
+pos = (469,0);
+},
+{
+name = top;
+pos = (312,640);
+}
+);
+layerId = m002;
 shapes = (
 {
 closed = 1;

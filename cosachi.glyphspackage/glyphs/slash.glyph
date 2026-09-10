@@ -1,9 +1,36 @@
 {
+color = 5;
 glyphname = slash;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,-64,l),
+(274,672,l),
+(212,672,l),
+(20,-64,l)
+);
+}
+);
+width = 294;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(82,-64,l),
+(274,672,l),
+(212,672,l),
+(20,-64,l)
+);
+}
+);
+width = 294;
 }
 );
 unicode = 47;

@@ -16,6 +16,21 @@ nodes = (
 }
 );
 width = 164;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,0,l),
+(162,0,l),
+(162,112,l),
+(50,112,l)
+);
+}
+);
+width = 164;
 }
 );
 unicode = 46;

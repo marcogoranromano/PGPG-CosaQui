@@ -9,11 +9,24 @@ shapes = (
 ref = S;
 },
 {
-pos = (101,160);
+pos = (92,160);
 ref = caroncomb;
 }
 );
-width = 568;
+width = 550;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (108,192);
+ref = caroncomb;
+}
+);
+width = 582;
 }
 );
 unicode = 352;

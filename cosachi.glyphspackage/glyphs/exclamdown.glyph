@@ -12,6 +12,17 @@ ref = exclam;
 }
 );
 width = 284;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (304,640);
+ref = exclam;
+}
+);
+width = 284;
 }
 );
 metricLeft = exclam;

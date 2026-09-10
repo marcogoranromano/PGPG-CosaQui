@@ -14,6 +14,19 @@ ref = tildecomb;
 }
 );
 width = 522;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (93,0);
+ref = tildecomb;
+}
+);
+width = 522;
 }
 );
 unicode = 7929;

@@ -12,6 +12,17 @@ ref = question;
 }
 );
 width = 564;
+},
+{
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (564,640);
+ref = question;
+}
+);
+width = 564;
 }
 );
 metricLeft = question;

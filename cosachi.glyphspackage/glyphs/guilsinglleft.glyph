@@ -3,7 +3,25 @@ glyphname = guilsinglleft;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (331,0);
+ref = guilsinglright;
+scale = (-1,1);
+}
+);
+width = 331;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (331,0);
+ref = guilsinglright;
+scale = (-1,1);
+}
+);
+width = 331;
 }
 );
 unicode = 8249;

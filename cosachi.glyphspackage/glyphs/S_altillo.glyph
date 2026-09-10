@@ -1,9 +1,24 @@
 {
+color = 5;
 glyphname = Saltillo;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = saltillo;
+}
+);
+width = 264;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = saltillo;
+}
+);
+width = 264;
 }
 );
 unicode = 42891;

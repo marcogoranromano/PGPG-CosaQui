@@ -1,0 +1,33 @@
+{
+color = 4;
+glyphname = gcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (146,0);
+ref = caroncomb;
+}
+);
+width = 655;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (146,0);
+ref = caroncomb;
+}
+);
+width = 655;
+}
+);
+unicode = 487;
+}

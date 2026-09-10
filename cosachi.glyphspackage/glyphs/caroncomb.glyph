@@ -1,4 +1,5 @@
 {
+color = 5;
 glyphname = caroncomb;
 layers = (
 {
@@ -9,6 +10,23 @@ pos = (183,480);
 }
 );
 layerId = m01;
+shapes = (
+{
+pos = (0,1264);
+ref = circumflexcomb;
+scale = (1,-1);
+}
+);
+width = 366;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (183,480);
+}
+);
+layerId = m002;
 shapes = (
 {
 pos = (0,1264);

@@ -5,6 +5,10 @@ layers = (
 {
 anchors = (
 {
+name = ogonek;
+pos = (559,0);
+},
+{
 name = top;
 pos = (307,640);
 }
@@ -48,6 +52,49 @@ nodes = (
 }
 );
 width = 614;
+},
+{
+anchors = (
+{
+name = ogonek;
+pos = (616,0);
+},
+{
+name = top;
+pos = (335,672);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,0,l),
+(397,672,l),
+(273,672,l),
+(20,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(412,631,l),
+(350,467,l),
+(526,0,l),
+(650,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(430,96,l),
+(430,208,l),
+(240,208,l),
+(240,96,l)
+);
+}
+);
+width = 670;
 }
 );
 unicode = 65;

@@ -1,9 +1,32 @@
 {
+color = 4;
 glyphname = aogonek;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (257,0);
+ref = ogonekcomb;
+}
+);
+width = 522;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (257,0);
+ref = ogonekcomb;
+}
+);
+width = 522;
 }
 );
 unicode = 261;

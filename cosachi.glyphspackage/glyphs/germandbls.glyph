@@ -3,7 +3,11 @@ glyphname = germandbls;
 layers = (
 {
 layerId = m01;
-width = 600;
+width = 326;
+},
+{
+layerId = m002;
+width = 326;
 }
 );
 unicode = 223;

@@ -1,0 +1,33 @@
+{
+color = 4;
+glyphname = Ecedilla;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (166,0);
+ref = cedillacomb;
+}
+);
+width = 574;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (166,0);
+ref = cedillacomb;
+}
+);
+width = 574;
+}
+);
+unicode = 552;
+}

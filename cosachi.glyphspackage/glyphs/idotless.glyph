@@ -5,11 +5,40 @@ layers = (
 {
 anchors = (
 {
+name = ogonek;
+pos = (130,0);
+},
+{
 name = top;
 pos = (132,480);
 }
 );
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,0,l),
+(164,480,l),
+(100,480,l),
+(100,0,l)
+);
+}
+);
+width = 264;
+},
+{
+anchors = (
+{
+name = ogonek;
+pos = (130,0);
+},
+{
+name = top;
+pos = (132,480);
+}
+);
+layerId = m002;
 shapes = (
 {
 closed = 1;

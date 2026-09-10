@@ -5,6 +5,10 @@ layers = (
 {
 anchors = (
 {
+name = ogonek;
+pos = (150,0);
+},
+{
 name = top;
 pos = (152,640);
 }
@@ -22,6 +26,31 @@ nodes = (
 }
 );
 width = 304;
+},
+{
+anchors = (
+{
+name = ogonek;
+pos = (176,0);
+},
+{
+name = top;
+pos = (176,672);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(232,0,l),
+(232,672,l),
+(120,672,l),
+(120,0,l)
+);
+}
+);
+width = 352;
 }
 );
 metricLeft = H;

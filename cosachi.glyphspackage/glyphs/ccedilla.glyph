@@ -1,9 +1,32 @@
 {
+color = 4;
 glyphname = ccedilla;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (180,-16);
+ref = cedillacomb;
+}
+);
+width = 598;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (180,-16);
+ref = cedillacomb;
+}
+);
+width = 598;
 }
 );
 unicode = 231;

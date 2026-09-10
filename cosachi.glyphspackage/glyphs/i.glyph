@@ -14,6 +14,19 @@ ref = dotaccentcomb;
 }
 );
 width = 264;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (50,0);
+ref = dotaccentcomb;
+}
+);
+width = 264;
 }
 );
 metricLeft = n;

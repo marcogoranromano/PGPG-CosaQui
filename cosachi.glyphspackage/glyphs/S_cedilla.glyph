@@ -9,11 +9,24 @@ shapes = (
 ref = S;
 },
 {
-pos = (138,0);
+pos = (129,-16);
 ref = cedillacomb;
 }
 );
-width = 568;
+width = 550;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (145,-16);
+ref = cedillacomb;
+}
+);
+width = 582;
 }
 );
 unicode = 350;

@@ -21,6 +21,26 @@ ref = j;
 }
 );
 width = 528;
+},
+{
+background = {
+shapes = (
+{
+ref = n;
+}
+);
+};
+layerId = m002;
+shapes = (
+{
+ref = i;
+},
+{
+pos = (264,0);
+ref = j;
+}
+);
+width = 528;
 }
 );
 unicode = 307;

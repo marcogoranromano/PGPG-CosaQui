@@ -1,9 +1,36 @@
 {
+color = 5;
 glyphname = endash;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(498,288,l),
+(498,352,l),
+(50,352,l),
+(50,288,l)
+);
+}
+);
+width = 548;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(498,288,l),
+(498,352,l),
+(50,352,l),
+(50,288,l)
+);
+}
+);
+width = 548;
 }
 );
 unicode = 8211;

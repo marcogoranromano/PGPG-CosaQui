@@ -15,6 +15,20 @@ ref = J;
 }
 );
 width = 858;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = -1;
+pos = (254,0);
+ref = J;
+}
+);
+width = 858;
 }
 );
 metricLeft = I;

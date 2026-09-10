@@ -114,13 +114,19 @@ value = A;
 guides = (
 {
 angle = 180;
+lockAngle = 1;
 name = Diacritici;
 pos = (0,560);
 },
 {
 angle = 180;
+lockAngle = 1;
 name = Diacritici;
 pos = (0,704);
+},
+{
+name = Parentesi;
+pos = (0,-64);
 }
 );
 id = m01;
@@ -148,6 +154,65 @@ pos = -256;
 name = Regular;
 userData = {
 GSCornerRadius = 15;
+GSOffsetHorizontal = -54;
+GSOffsetVertical = -54;
+};
+},
+{
+axesValues = (
+112
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = A;
+}
+);
+guides = (
+{
+angle = 180;
+lockAngle = 1;
+name = Diacritici;
+pos = (0,560);
+},
+{
+angle = 180;
+lockAngle = 1;
+name = Diacritici;
+pos = (0,704);
+},
+{
+name = Parentesi;
+pos = (0,-64);
+}
+);
+id = m002;
+metricValues = (
+{
+over = 16;
+pos = 704;
+},
+{
+over = 16;
+pos = 672;
+},
+{
+over = 16;
+pos = 480;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -256;
+}
+);
+name = Bold;
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = -54;
+GSOffsetVertical = -54;
 };
 }
 );
@@ -157,11 +222,19 @@ axesValues = (
 0
 );
 instanceInterpolations = {
-m01 = 1;
+m002 = -1.33333;
+m01 = 2.33333;
 };
 name = Regular;
 }
 );
+kerningLTR = {
+m002 = {
+A = {
+question = -50;
+};
+};
+};
 metrics = (
 {
 type = ascender;

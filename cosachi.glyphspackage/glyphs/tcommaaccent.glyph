@@ -1,9 +1,32 @@
 {
+color = 4;
 glyphname = tcommaaccent;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (82,0);
+ref = commaaccentcomb;
+}
+);
+width = 340;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (82,0);
+ref = commaaccentcomb;
+}
+);
+width = 340;
 }
 );
 unicode = 539;

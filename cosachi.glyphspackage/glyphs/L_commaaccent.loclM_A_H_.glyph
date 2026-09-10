@@ -1,9 +1,32 @@
 {
+color = 4;
 glyphname = Lcommaaccent.loclMAH;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (150,0);
+ref = commaaccentcomb.loclMAH;
+}
+);
+width = 502;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (150,0);
+ref = commaaccentcomb.loclMAH;
+}
+);
+width = 502;
 }
 );
 }

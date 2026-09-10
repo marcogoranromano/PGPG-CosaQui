@@ -1,9 +1,28 @@
 {
+color = 5;
 glyphname = braceright;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (263,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 262;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (263,0);
+ref = braceleft;
+scale = (-1,1);
+}
+);
+width = 262;
 }
 );
 unicode = 125;
