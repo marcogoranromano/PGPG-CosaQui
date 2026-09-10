@@ -186,6 +186,7 @@ name = Parentesi;
 pos = (0,-64);
 }
 );
+iconName = Bold;
 id = m002;
 metricValues = (
 {

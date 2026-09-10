@@ -22,11 +22,11 @@ shapes = (
 ref = U;
 },
 {
-pos = (230,160);
+pos = (246,192);
 ref = dieresiscomb;
 }
 );
-width = 720;
+width = 752;
 }
 );
 unicode = 220;
