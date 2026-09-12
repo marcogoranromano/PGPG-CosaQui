@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = semicolon;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,320);
+ref = period;
+},
+{
+ref = comma;
+}
+);
+width = 177;
+}
+);
+unicode = 59;
+}

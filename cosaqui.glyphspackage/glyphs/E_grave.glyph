@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = Egrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (159,160);
+ref = gravecomb;
+}
+);
+width = 574;
+}
+);
+unicode = 200;
+}

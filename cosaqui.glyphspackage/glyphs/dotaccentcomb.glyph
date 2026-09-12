@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (82,480);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,560);
+ref = period;
+}
+);
+width = 164;
+}
+);
+unicode = 775;
+}

@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(184,64,l),
+(120,64,l),
+(120,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(120,640,l),
+(120,128,l),
+(184,128,l),
+(184,640,l)
+);
+}
+);
+width = 284;
+}
+);
+metricLeft = H;
+metricRight = h;
+unicode = 33;
+}

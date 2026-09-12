@@ -1,0 +1,48 @@
+{
+color = 4;
+glyphname = jdotless;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (132,480);
+}
+);
+guides = (
+{
+pos = (271,275);
+showMeasurement = 1;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,-272,o),
+(164,-193,o),
+(164,-96,c),
+(100,-96,l),
+(100,-158,o),
+(50,-208,o),
+(-12,-208,c),
+(-12,-272,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(164,-64,l),
+(164,480,l),
+(100,480,l),
+(100,-64,l)
+);
+}
+);
+width = 264;
+}
+);
+metricRight = n;
+unicode = 567;
+}

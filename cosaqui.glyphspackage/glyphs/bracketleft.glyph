@@ -1,0 +1,40 @@
+{
+color = 5;
+glyphname = bracketleft;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,-64,l),
+(210,0,l),
+(146,0,l),
+(146,-64,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(114,-64,l),
+(114,672,l),
+(50,672,l),
+(50,-64,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(210,608,l),
+(210,672,l),
+(146,672,l),
+(146,608,l)
+);
+}
+);
+width = 230;
+}
+);
+unicode = 91;
+}

@@ -1,0 +1,33 @@
+{
+color = 5;
+glyphname = southWestArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,0,l),
+(434,64,l),
+(114,64,l),
+(114,384,l),
+(50,384,l),
+(50,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,90,l),
+(612,518,l),
+(568,562,l),
+(140,134,l)
+);
+}
+);
+width = 662;
+}
+);
+unicode = 8601;
+}

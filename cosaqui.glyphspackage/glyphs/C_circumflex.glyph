@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = Ccircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (223,160);
+ref = circumflexcomb;
+}
+);
+width = 652;
+}
+);
+unicode = 264;
+}

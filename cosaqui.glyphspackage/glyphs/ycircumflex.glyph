@@ -1,0 +1,20 @@
+{
+color = 4;
+glyphname = ycircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (78,0);
+ref = circumflexcomb;
+}
+);
+width = 522;
+}
+);
+unicode = 375;
+}

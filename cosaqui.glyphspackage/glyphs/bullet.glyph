@@ -1,0 +1,17 @@
+{
+color = 5;
+glyphname = bullet;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-320);
+ref = ringcomb;
+}
+);
+width = 292;
+}
+);
+unicode = 8226;
+}

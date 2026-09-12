@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = schwa;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (647,480);
+ref = e;
+}
+);
+width = 647;
+}
+);
+unicode = 601;
+}

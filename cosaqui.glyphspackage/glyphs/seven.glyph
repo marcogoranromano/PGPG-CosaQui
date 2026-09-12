@@ -1,0 +1,32 @@
+{
+color = 5;
+glyphname = seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,0,l),
+(400,544,l),
+(334,544,l),
+(114,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(400,576,l),
+(400,640,l),
+(37,640,l),
+(37,576,l)
+);
+}
+);
+width = 420;
+}
+);
+metricRight = V;
+unicode = 55;
+}
