@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = northEastArrow;
+layers = (
+{
+.lastUpdate = 810917602.82;
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (662,546);
+ref = southWestArrow;
+},
+);
+width = 662;
+},
+);
+unicode = 8599;
+}

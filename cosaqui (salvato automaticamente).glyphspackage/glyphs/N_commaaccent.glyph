@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Ncommaaccent;
+layers = (
+{
+.lastUpdate = 810917601.191;
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (272,0);
+ref = commaaccentcomb;
+},
+);
+width = 720;
+},
+);
+unicode = 325;
+}

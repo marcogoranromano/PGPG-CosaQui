@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = ydieresis;
+layers = (
+{
+.lastUpdate = 810918694.469;
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (131,0);
+ref = dieresiscomb;
+},
+);
+width = 522;
+},
+);
+unicode = 255;
+}

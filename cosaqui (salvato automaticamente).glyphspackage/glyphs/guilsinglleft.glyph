@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = guilsinglleft;
+lastChange = "2026-09-12 14:38:19 +0000";
+layers = (
+{
+.lastUpdate = 810917602.788;
+layerId = m01;
+shapes = (
+{
+pos = (331,0);
+ref = guilsinglright;
+scale = (-1,1);
+},
+);
+width = 331;
+},
+);
+unicode = 8249;
+}

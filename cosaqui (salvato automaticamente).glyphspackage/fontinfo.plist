@@ -1,0 +1,172 @@
+{
+.appVersion = "4004";
+.formatVersion = 4;
+.storedFileType = com.glyphsapp.glyphspackage;
+.storedFormatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+);
+date = "2026-09-09 07:37:57 +0000";
+featurePrefixes = (
+{
+automatic = 1;
+file = _Languagesystems.fea;
+name = Languagesystems;
+},
+);
+features = (
+{
+automatic = 1;
+file = aalt.fea;
+tag = aalt;
+},
+{
+automatic = 1;
+file = ccmp.fea;
+tag = ccmp;
+},
+{
+automatic = 1;
+file = locl.fea;
+tag = locl;
+},
+{
+automatic = 1;
+file = liga.fea;
+tag = liga;
+},
+);
+fontMaster = (
+{
+axesValues = (
+64,
+);
+customParameters = (
+{
+name = "Master Icon Glyph Name";
+value = A;
+},
+);
+guides = (
+{
+angle = 180;
+lockAngle = 1;
+name = Diacritici;
+pos = (0,560);
+},
+{
+angle = 180;
+lockAngle = 1;
+name = Diacritici;
+pos = (0,704);
+},
+{
+name = Parentesi;
+pos = (0,-64);
+},
+);
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 672;
+},
+{
+over = 16;
+pos = 640;
+},
+{
+over = 16;
+pos = 480;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -256;
+},
+);
+name = Regular;
+userData = {
+GSCornerRadius = 15;
+GSOffsetHorizontal = -54;
+GSOffsetVertical = -54;
+};
+},
+);
+instances = (
+{
+axesValues = (
+64,
+);
+id = "6A5502C3-D51C-4CB4-8E60-A1137D6C350C";
+instanceInterpolations = {
+m01 = 1;
+};
+properties = (
+{
+key = styleNames;
+values = (
+{
+language = dflt;
+value = Regular;
+},
+);
+},
+);
+},
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+);
+properties = (
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Marco Goran Romano";
+},
+);
+},
+{
+key = designerURL;
+value = www.marcogoranromano.com;
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = CosaQui;
+},
+);
+},
+);
+settings = {
+colorSpace = "apple-rgb";
+gridLength = 32;
+gridSubDivision = 32;
+};
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}

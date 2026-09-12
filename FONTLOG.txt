@@ -1,23 +1,28 @@
-FONTLOG for Riottosa
+FONTLOG for CosaQui
 
-This file provides detailed information on the Riottosa font software and its development history.
-
----
-
-Riottosa is an open source variable display typeface developed for the communication activities of the collective OSA.
+This file provides information on the CosaQui font software and its development history.
 
 ---
 
-Version 1.0 — May 2026
+CosaQui is an open-source geometric display typeface inspired by the metaphysical architecture of Aldo Rossi and his recurring use of primary forms as a distinctive compositional language.
 
-- Initial public release
-- Variable font with width and weight axes
-- Four masters:
-  Regular Condensed
-  Bold Condensed
-  Regular Wide
-  Bold Wide
-- Western European language support
+Its letterforms are built from an essential vocabulary of geometric primitives, softened by humanist touches that make the design less rigid and more expressive. Its stencil construction recalls Constructivist and Neoplasticist aesthetics.
+
+The result is a playful and modular geometric display sans.
+
+---
+
+Development version — September 2026
+
+- Uppercase and lowercase Latin character sets completed
+- Diacritic characters and combining marks added
+- Language support includes Basic Latin, Western European, Central European, South-Western European, South American, Oceanian, and Esperanto
+- Numerals, arrows, brackets, and most punctuation drawn
+- guillemetleft and guillemetright completed
+- period redesigned with a circular form
+- Bold master and instance removed
+- Regular and Bold OTF exports removed
+- Source file renamed to cosaqui.glyphspackage
 - Released under the SIL Open Font License 1.1
 
 ---

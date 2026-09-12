@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = eogonek;
+layers = (
+{
+.lastUpdate = 810917601.094;
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (195,-16);
+ref = ogonekcomb;
+},
+);
+width = 647;
+},
+);
+unicode = 281;
+}

@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = guillemetleft;
+lastChange = "2026-09-12 14:39:16 +0000";
+layers = (
+{
+.lastUpdate = 810917602.787;
+layerId = m01;
+shapes = (
+{
+pos = (485,0);
+ref = guillemetright;
+scale = (-1,1);
+},
+);
+width = 485;
+},
+);
+metricLeft = guilsinglleft;
+metricRight = guilsinglleft;
+unicode = 171;
+}

@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Racute;
+layers = (
+{
+.lastUpdate = 810917601.189;
+layerId = m01;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (268,160);
+ref = acutecomb;
+},
+);
+width = 628;
+},
+);
+unicode = 340;
+}

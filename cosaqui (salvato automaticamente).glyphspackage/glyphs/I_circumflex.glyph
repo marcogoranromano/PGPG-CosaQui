@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Icircumflex;
+layers = (
+{
+.lastUpdate = 810917601.222;
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-31,160);
+ref = circumflexcomb;
+},
+);
+width = 304;
+},
+);
+unicode = 206;
+}

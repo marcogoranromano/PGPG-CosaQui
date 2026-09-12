@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Umacron;
+layers = (
+{
+.lastUpdate = 810917601.171;
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (204,160);
+ref = macroncomb;
+},
+);
+width = 720;
+},
+);
+unicode = 362;
+}

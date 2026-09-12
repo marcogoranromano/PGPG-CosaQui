@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = underscore;
+layers = (
+{
+.lastUpdate = 810917602.772;
+layerId = m01;
+shapes = (
+{
+pos = (0,-396);
+ref = endash;
+},
+);
+width = 548;
+},
+);
+unicode = 95;
+}

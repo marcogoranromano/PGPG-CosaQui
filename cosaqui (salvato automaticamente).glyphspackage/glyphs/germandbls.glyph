@@ -1,0 +1,10 @@
+{
+glyphname = germandbls;
+layers = (
+{
+layerId = m01;
+width = 326;
+},
+);
+unicode = 223;
+}

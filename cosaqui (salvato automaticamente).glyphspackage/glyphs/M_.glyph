@@ -1,0 +1,57 @@
+{
+color = 5;
+glyphname = M;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (418,640);
+},
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(452,0,l),
+(716,640,l),
+(648,640,l),
+(384,0,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(716,0,l),
+(716,559,l),
+(652,404,l),
+(652,0,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(188,640,l),
+(120,640,l),
+(367,41,l),
+(401,123,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(184,404,l),
+(120,559,l),
+(120,0,l),
+(184,0,l),
+);
+},
+);
+width = 836;
+},
+);
+metricLeft = H;
+metricRight = H;
+unicode = 77;
+}

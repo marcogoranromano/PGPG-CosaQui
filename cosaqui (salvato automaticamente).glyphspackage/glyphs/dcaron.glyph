@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = dcaron;
+layers = (
+{
+.lastUpdate = 810917601.091;
+layerId = m01;
+shapes = (
+{
+ref = d;
+},
+{
+pos = (485,-32);
+ref = caroncomb.alt;
+},
+);
+width = 648;
+},
+);
+unicode = 271;
+}

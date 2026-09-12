@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = caroncomb.alt;
+layers = (
+{
+anchors = (
+{
+name = _side;
+pos = (63,704);
+},
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(179,560,l),
+(204,704,l),
+(127,704,l),
+(127,560,l),
+);
+},
+);
+width = 300;
+},
+);
+}

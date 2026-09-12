@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = ohungarumlaut;
+layers = (
+{
+.lastUpdate = 810918708.251;
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (196,0);
+ref = hungarumlautcomb;
+},
+);
+width = 652;
+},
+);
+unicode = 337;
+}

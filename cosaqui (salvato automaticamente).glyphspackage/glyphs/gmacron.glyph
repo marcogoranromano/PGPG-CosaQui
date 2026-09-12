@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = gmacron;
+layers = (
+{
+.lastUpdate = 810916777.96;
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (173,0);
+ref = macroncomb;
+},
+);
+width = 655;
+},
+);
+unicode = 7713;
+}

@@ -1,0 +1,46 @@
+{
+color = 5;
+glyphname = L;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (296,0);
+},
+{
+name = side;
+pos = (248,640);
+},
+{
+name = top;
+pos = (152,640);
+},
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,0,l),
+(184,640,l),
+(120,640,l),
+(120,0,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(472,0,l),
+(472,64,l),
+(216,64,l),
+(216,0,l),
+);
+},
+);
+width = 502;
+},
+);
+metricLeft = H;
+unicode = 76;
+}

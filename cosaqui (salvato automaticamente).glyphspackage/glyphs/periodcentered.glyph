@@ -1,0 +1,18 @@
+{
+color = 5;
+glyphname = periodcentered;
+layers = (
+{
+.lastUpdate = 810917602.138;
+layerId = m01;
+shapes = (
+{
+pos = (0,288);
+ref = period;
+},
+);
+width = 164;
+},
+);
+unicode = 183;
+}

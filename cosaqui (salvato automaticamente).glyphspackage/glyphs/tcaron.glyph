@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = tcaron;
+layers = (
+{
+.lastUpdate = 810918708.27;
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (139,-48);
+ref = caroncomb.alt;
+},
+);
+width = 340;
+},
+);
+unicode = 357;
+}

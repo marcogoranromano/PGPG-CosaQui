@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = backslash;
+layers = (
+{
+.lastUpdate = 810917602.773;
+layerId = m01;
+shapes = (
+{
+pos = (294,0);
+ref = slash;
+scale = (-1,1);
+},
+);
+width = 294;
+},
+);
+unicode = 92;
+}

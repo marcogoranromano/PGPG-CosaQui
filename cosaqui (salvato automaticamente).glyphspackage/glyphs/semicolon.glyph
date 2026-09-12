@@ -1,0 +1,22 @@
+{
+color = 5;
+glyphname = semicolon;
+lastChange = "2026-09-12 14:42:27 +0000";
+layers = (
+{
+.lastUpdate = 810917602.137;
+layerId = m01;
+shapes = (
+{
+pos = (0,320);
+ref = period;
+},
+{
+ref = comma;
+},
+);
+width = 177;
+},
+);
+unicode = 59;
+}

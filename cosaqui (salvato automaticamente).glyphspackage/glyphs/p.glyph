@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = p;
+layers = (
+{
+.lastUpdate = 810916886.314;
+layerId = m01;
+shapes = (
+{
+pos = (648,0);
+ref = q;
+scale = (-1,1);
+},
+);
+width = 648;
+},
+);
+unicode = 112;
+}

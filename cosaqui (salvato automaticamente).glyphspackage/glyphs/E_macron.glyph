@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Emacron;
+layers = (
+{
+.lastUpdate = 810917601.256;
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (156,160);
+ref = macroncomb;
+},
+);
+width = 574;
+},
+);
+unicode = 274;
+}

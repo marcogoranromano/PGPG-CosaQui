@@ -1,0 +1,50 @@
+{
+color = 5;
+glyphname = n;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (276,0);
+},
+{
+name = top;
+pos = (276,480);
+},
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(164,0,l),
+(164,480,l),
+(100,480,l),
+(100,0,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(452,0,l),
+(452,384,l),
+(388,384,l),
+(388,0,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(452,416,l),
+(452,480,l),
+(196,480,l),
+(196,416,l),
+);
+},
+);
+width = 552;
+},
+);
+unicode = 110;
+}

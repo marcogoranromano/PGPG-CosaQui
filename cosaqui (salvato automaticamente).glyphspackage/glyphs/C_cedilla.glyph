@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Ccedilla;
+layers = (
+{
+.lastUpdate = 810917601.29;
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (260,-16);
+ref = cedillacomb;
+},
+);
+width = 652;
+},
+);
+unicode = 199;
+}

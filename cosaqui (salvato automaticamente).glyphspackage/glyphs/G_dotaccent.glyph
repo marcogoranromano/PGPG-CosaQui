@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Gdotaccent;
+layers = (
+{
+.lastUpdate = 810917601.223;
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+pos = (324,160);
+ref = dotaccentcomb;
+},
+);
+width = 662;
+},
+);
+unicode = 288;
+}

@@ -1,0 +1,25 @@
+{
+color = 5;
+glyphname = commaturnedabovecomb;
+layers = (
+{
+.lastUpdate = 810917602.922;
+anchors = (
+{
+name = _top;
+pos = (89,560);
+},
+);
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (177,624);
+ref = comma;
+},
+);
+width = 177;
+},
+);
+unicode = 786;
+}

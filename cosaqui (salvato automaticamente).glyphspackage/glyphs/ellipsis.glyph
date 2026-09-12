@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = ellipsis;
+layers = (
+{
+.lastUpdate = 810917602.137;
+guides = (
+{
+pos = (29,32);
+showMeasurement = 1;
+},
+);
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (96,0);
+ref = period;
+},
+{
+pos = (192,0);
+ref = period;
+},
+);
+width = 356;
+},
+);
+unicode = 8230;
+}

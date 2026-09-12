@@ -2,7 +2,7 @@
 
 ## Supported versions
 
-Riottosa is an actively maintained open-source project.
+CosaQui is an actively maintained open-source project.
 
 Security updates, when necessary, are applied to the latest release and to the current version of the project on the default branch.
 
@@ -10,7 +10,7 @@ Older releases may not receive security updates.
 
 ## Reporting a vulnerability
 
-If you discover a potential security vulnerability affecting Riottosa, its font files, website, or repository, please do not report it through a public GitHub issue.
+If you discover a potential security vulnerability affecting CosaQui, its font files, or repository, please do not report it through a public GitHub issue.
 
 Instead, please use GitHub's private vulnerability reporting feature to submit the details privately.
 
@@ -23,4 +23,4 @@ When reporting a vulnerability, please include:
 
 Reports will be reviewed as soon as reasonably possible. If the issue is confirmed, appropriate steps will be taken to address it.
 
-Thank you for helping keep Riottosa and its users safe.
+Thank you for helping keep CosaQui and its users safe.

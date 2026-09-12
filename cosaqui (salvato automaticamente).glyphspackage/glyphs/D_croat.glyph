@@ -1,0 +1,17 @@
+{
+color = 4;
+glyphname = Dcroat;
+layers = (
+{
+.lastUpdate = 810917601.255;
+layerId = m01;
+shapes = (
+{
+ref = Eth;
+},
+);
+width = 712;
+},
+);
+unicode = 272;
+}

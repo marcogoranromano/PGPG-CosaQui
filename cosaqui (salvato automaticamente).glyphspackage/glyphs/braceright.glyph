@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = braceright;
+layers = (
+{
+.lastUpdate = 810917602.772;
+layerId = m01;
+shapes = (
+{
+pos = (263,0);
+ref = braceleft;
+scale = (-1,1);
+},
+);
+width = 262;
+},
+);
+unicode = 125;
+}

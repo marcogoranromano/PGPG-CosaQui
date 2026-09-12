@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = scommaaccent;
+layers = (
+{
+.lastUpdate = 810918713.368;
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (168,-16);
+ref = commaaccentcomb;
+},
+);
+width = 512;
+},
+);
+unicode = 537;
+}

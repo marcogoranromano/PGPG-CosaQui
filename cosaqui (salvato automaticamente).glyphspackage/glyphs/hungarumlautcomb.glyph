@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = hungarumlautcomb;
+layers = (
+{
+.lastUpdate = 810917601.171;
+anchors = (
+{
+name = _top;
+pos = (130,480);
+},
+);
+layerId = m01;
+shapes = (
+{
+pos = (229,0);
+ref = gravecomb;
+scale = (-1,1);
+},
+{
+pos = (337,0);
+ref = gravecomb;
+scale = (-1,1);
+},
+);
+width = 300;
+},
+);
+unicode = 779;
+}

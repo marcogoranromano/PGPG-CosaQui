@@ -1,0 +1,12 @@
+{
+glyphname = slashlongcomb;
+layers = (
+{
+.lastUpdate = 810918705.637;
+layerId = m01;
+width = 300;
+},
+);
+unicode = 824;
+changeCount = 1;
+}

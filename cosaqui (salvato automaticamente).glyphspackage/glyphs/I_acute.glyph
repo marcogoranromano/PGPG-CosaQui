@@ -1,0 +1,21 @@
+{
+color = 4;
+glyphname = Iacute;
+layers = (
+{
+.lastUpdate = 810917601.222;
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (76,160);
+ref = acutecomb;
+},
+);
+width = 304;
+},
+);
+unicode = 205;
+}
