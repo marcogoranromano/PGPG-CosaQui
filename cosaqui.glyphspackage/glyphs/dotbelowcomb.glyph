@@ -1,0 +1,25 @@
+{
+color = 4;
+glyphname = dotbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (82,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (0,-109);
+ref = period;
+}
+);
+width = 164;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 803;
+}

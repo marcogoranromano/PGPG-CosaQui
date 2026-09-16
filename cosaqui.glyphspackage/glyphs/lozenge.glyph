@@ -1,0 +1,10 @@
+{
+glyphname = lozenge;
+layers = (
+{
+layerId = m01;
+width = 600;
+}
+);
+unicode = 9674;
+}

@@ -5,6 +5,10 @@ layers = (
 {
 anchors = (
 {
+name = bottom;
+pos = (252,0);
+},
+{
 name = ogonek;
 pos = (388,0);
 },

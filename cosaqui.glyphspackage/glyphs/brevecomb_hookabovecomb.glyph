@@ -1,0 +1,9 @@
+{
+glyphname = brevecomb_hookabovecomb;
+layers = (
+{
+layerId = m01;
+width = 300;
+}
+);
+}

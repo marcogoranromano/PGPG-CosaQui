@@ -1,0 +1,23 @@
+{
+glyphname = Abrevetilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (129,160);
+ref = brevecomb;
+},
+{
+pos = (139,160);
+ref = tildecomb;
+}
+);
+width = 614;
+}
+);
+unicode = 7860;
+}

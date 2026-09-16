@@ -6,32 +6,46 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (130,480);
+pos = (138,480);
 }
 );
-layerId = m01;
+background = {
 shapes = (
 {
 closed = 1;
 nodes = (
-(210,560,l),
-(210,624,l),
-(146,624,l),
-(146,560,l)
+(218,560,l),
+(218,624,l),
+(154,624,l),
+(154,560,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(114,560,l),
-(114,624,l),
-(50,624,l),
-(50,560,l)
+(122,560,l),
+(122,624,l),
+(58,624,l),
+(58,560,l)
 );
 }
 );
-width = 260;
+};
+layerId = m01;
+shapes = (
+{
+pos = (0,560);
+ref = period;
+},
+{
+pos = (112,560);
+ref = period;
 }
 );
+width = 276;
+}
+);
+metricLeft = period;
+metricRight = period;
 unicode = 776;
 }

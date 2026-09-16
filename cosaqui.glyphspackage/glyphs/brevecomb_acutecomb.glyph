@@ -1,0 +1,17 @@
+{
+glyphname = brevecomb_acutecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = brevecomb;
+},
+{
+ref = acutecomb;
+}
+);
+width = 356;
+}
+);
+}

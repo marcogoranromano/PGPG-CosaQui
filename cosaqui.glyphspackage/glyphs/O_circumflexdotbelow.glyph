@@ -1,0 +1,24 @@
+{
+color = 4;
+glyphname = Ocircumflexdotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (324,-16);
+ref = dotbelowcomb;
+},
+{
+pos = (223,160);
+ref = circumflexcomb;
+}
+);
+width = 812;
+}
+);
+unicode = 7896;
+}
