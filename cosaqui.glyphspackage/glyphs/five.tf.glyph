@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = five.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-4,0);
+ref = five;
+}
+);
+width = 540;
+}
+);
+}

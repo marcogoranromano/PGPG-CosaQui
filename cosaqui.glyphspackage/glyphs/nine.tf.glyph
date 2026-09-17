@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = nine.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-4,0);
+ref = nine;
+}
+);
+width = 540;
+}
+);
+}

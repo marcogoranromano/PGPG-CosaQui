@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = zero.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-4,0);
+ref = zero;
+}
+);
+width = 540;
+}
+);
+}

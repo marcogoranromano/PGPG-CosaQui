@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = seven.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (53,0);
+ref = seven;
+}
+);
+width = 540;
+}
+);
+}

@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = two.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (16,0);
+ref = two;
+}
+);
+width = 540;
+}
+);
+}
