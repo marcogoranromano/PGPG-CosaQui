@@ -1,25 +1,26 @@
 {
-color = 4;
+color = 5;
 glyphname = dotbelowcomb;
 layers = (
 {
 anchors = (
 {
 name = _bottom;
-pos = (82,0);
+pos = (95,0);
 }
 );
 layerId = m01;
 shapes = (
 {
-pos = (0,-109);
+pos = (13,-109);
 ref = period;
 }
 );
-width = 164;
+width = 190;
 }
 );
-metricLeft = period;
-metricRight = period;
+metricLeft = "=50";
+metricRight = "=50";
+metricWidth = Multi;
 unicode = 803;
 }

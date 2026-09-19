@@ -3,7 +3,10 @@ glyphname = circumflexcomb_hookabovecomb;
 layers = (
 {
 layerId = m01;
-width = 300;
+width = 400;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
+metricWidth = Multi;
 }

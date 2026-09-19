@@ -6,7 +6,7 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (138,480);
+pos = (151,480);
 }
 );
 background = {
@@ -14,19 +14,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(218,560,l),
-(218,624,l),
-(154,624,l),
-(154,560,l)
+(231,560,l),
+(231,624,l),
+(167,624,l),
+(167,560,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(122,560,l),
-(122,624,l),
-(58,624,l),
-(58,560,l)
+(135,560,l),
+(135,624,l),
+(71,624,l),
+(71,560,l)
 );
 }
 );
@@ -34,18 +34,19 @@ nodes = (
 layerId = m01;
 shapes = (
 {
-pos = (0,560);
+pos = (13,560);
 ref = period;
 },
 {
-pos = (112,560);
+pos = (125,560);
 ref = period;
 }
 );
-width = 276;
+width = 302;
 }
 );
-metricLeft = period;
-metricRight = period;
+metricLeft = "=50";
+metricRight = "=50";
+metricWidth = Multi;
 unicode = 776;
 }

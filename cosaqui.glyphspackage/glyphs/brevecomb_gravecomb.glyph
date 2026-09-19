@@ -14,4 +14,7 @@ ref = gravecomb;
 width = 356;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
+metricWidth = Multi;
 }

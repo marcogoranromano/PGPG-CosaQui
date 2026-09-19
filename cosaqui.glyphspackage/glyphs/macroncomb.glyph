@@ -24,5 +24,8 @@ nodes = (
 width = 312;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
+metricWidth = Multi;
 unicode = 772;
 }

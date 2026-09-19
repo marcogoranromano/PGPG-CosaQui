@@ -22,8 +22,11 @@ ref = gravecomb;
 scale = (-1,1);
 }
 );
-width = 300;
+width = 337;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
+metricWidth = Multi;
 unicode = 779;
 }

@@ -6,18 +6,21 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (82,480);
+pos = (95,480);
 }
 );
 layerId = m01;
 shapes = (
 {
-pos = (0,560);
+pos = (13,560);
 ref = period;
 }
 );
-width = 164;
+width = 190;
 }
 );
+metricLeft = "=50";
+metricRight = "=50";
+metricWidth = Multi;
 unicode = 775;
 }

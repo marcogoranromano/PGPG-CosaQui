@@ -9,7 +9,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (278,-16);
+pos = (265,-16);
 ref = dotbelowcomb;
 }
 );
