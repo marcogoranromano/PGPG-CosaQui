@@ -3,8 +3,21 @@ glyphname = oneeighth;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = one.numr;
+},
+{
+alignment = -1;
+ref = fraction;
+}
+);
 width = 600;
 }
 );
+metricLeft = fraction;
+metricRight = fraction;
 unicode = 8539;
 }

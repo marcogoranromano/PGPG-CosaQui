@@ -3,8 +3,26 @@ glyphname = onehalf;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = one.numr;
+},
+{
+alignment = -1;
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (338,0);
+ref = two.dnom;
+}
+);
 width = 600;
 }
 );
+metricLeft = fraction;
+metricRight = fraction;
 unicode = 189;
 }

@@ -8,19 +8,20 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(120,640,l),
-(120,128,l),
-(184,128,l),
-(184,640,l)
+(63,640,l),
+(63,128,l),
+(127,128,l),
+(127,640,l)
 );
 },
 {
-pos = (70,0);
 ref = period;
 }
 );
-width = 304;
+width = 190;
 }
 );
+metricLeft = period;
+metricRight = period;
 unicode = 33;
 }

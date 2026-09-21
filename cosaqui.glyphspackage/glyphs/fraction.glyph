@@ -2,7 +2,28 @@
 glyphname = fraction;
 layers = (
 {
+guides = (
+{
+angle = 90;
+pos = (60,0);
+},
+{
+angle = 90;
+pos = (540,640);
+}
+);
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,0,l),
+(580,640,l),
+(508,640,l),
+(20,0,l)
+);
+}
+);
 width = 600;
 }
 );

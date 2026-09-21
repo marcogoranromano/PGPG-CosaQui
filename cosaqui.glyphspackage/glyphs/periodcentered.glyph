@@ -10,8 +10,10 @@ pos = (0,288);
 ref = period;
 }
 );
-width = 164;
+width = 190;
 }
 );
+metricLeft = period;
+metricRight = period;
 unicode = 183;
 }

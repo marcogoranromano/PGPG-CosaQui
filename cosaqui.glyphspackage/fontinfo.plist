@@ -108,6 +108,12 @@ pos = (0,704);
 {
 name = Parentesi;
 pos = (0,-64);
+},
+{
+angle = 180;
+lockAngle = 1;
+name = "BL numr";
+pos = (0,352);
 }
 );
 id = m01;

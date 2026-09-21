@@ -23,7 +23,7 @@ pos = (232,0);
 ref = period;
 }
 );
-width = 396;
+width = 422;
 }
 );
 metricLeft = period;
