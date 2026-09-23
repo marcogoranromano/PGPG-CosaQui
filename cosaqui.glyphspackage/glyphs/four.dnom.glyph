@@ -3,7 +3,13 @@ glyphname = four.dnom;
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+pos = (0,-348);
+ref = four.numr;
+}
+);
+width = 282;
 }
 );
 }

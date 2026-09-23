@@ -3,6 +3,15 @@ glyphname = threeeighths;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = fraction;
+},
+{
+ref = three.numr;
+}
+);
 width = 600;
 }
 );

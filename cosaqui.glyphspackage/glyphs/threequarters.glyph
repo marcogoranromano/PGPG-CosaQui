@@ -3,6 +3,19 @@ glyphname = threequarters;
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = fraction;
+},
+{
+ref = three.numr;
+},
+{
+pos = (338,0);
+ref = four.dnom;
+}
+);
 width = 600;
 }
 );

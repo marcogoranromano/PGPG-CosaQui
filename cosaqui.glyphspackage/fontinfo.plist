@@ -113,7 +113,7 @@ pos = (0,-64);
 angle = 180;
 lockAngle = 1;
 name = "BL numr";
-pos = (0,352);
+pos = (0,348);
 }
 );
 id = m01;
